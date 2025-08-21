@@ -1,0 +1,220 @@
+{
+  "users": {
+    "mohammad": {
+      "profile": {
+        "name": "mohammad",
+        "join_date": "2025-08-20T06:36:09.058176",
+        "level": "Beginner",
+        "preferred_subjects": []
+      },
+      "activity_log": [
+        {
+          "timestamp": "2025-08-20T06:36:09.058176",
+          "subject": "Computer Science",
+          "activity_type": "chat_interaction",
+          "score": null,
+          "duration": null,
+          "details": {}
+        },
+        {
+          "timestamp": "2025-08-20T06:36:26.141730",
+          "subject": "Computer Science",
+          "activity_type": "chat_interaction",
+          "score": null,
+          "duration": null,
+          "details": {}
+        },
+        {
+          "timestamp": "2025-08-20T06:36:57.971678",
+          "subject": "Computer Science",
+          "activity_type": "chat_interaction",
+          "score": null,
+          "duration": null,
+          "details": {}
+        },
+        {
+          "timestamp": "2025-08-20T06:37:30.583499",
+          "subject": "English",
+          "activity_type": "chat_interaction",
+          "score": null,
+          "duration": null,
+          "details": {}
+        },
+        {
+          "timestamp": "2025-08-20T06:37:41.771035",
+          "subject": "English",
+          "activity_type": "chat_interaction",
+          "score": null,
+          "duration": null,
+          "details": {}
+        },
+        {
+          "timestamp": "2025-08-20T08:22:08.620170",
+          "subject": "General",
+          "activity_type": "chat_interaction",
+          "score": null,
+          "duration": null,
+          "details": {}
+        },
+        {
+          "timestamp": "2025-08-20T08:22:21.732486",
+          "subject": "General",
+          "activity_type": "chat_interaction",
+          "score": null,
+          "duration": null,
+          "details": {}
+        },
+        {
+          "timestamp": "2025-08-20T08:22:34.950247",
+          "subject": "General",
+          "activity_type": "chat_interaction",
+          "score": null,
+          "duration": null,
+          "details": {}
+        },
+        {
+          "timestamp": "2025-08-20T08:22:50.345443",
+          "subject": "General",
+          "activity_type": "chat_interaction",
+          "score": null,
+          "duration": null,
+          "details": {}
+        }
+      ],
+      "subject_progress": {
+        "Computer Science": {
+          "total_interactions": 3,
+          "average_score": 0,
+          "time_spent": 0,
+          "topics_covered": [],
+          "difficulty_progress": {
+            "Beginner": 0,
+            "Intermediate": 0,
+            "Advanced": 0
+          },
+          "last_activity": "2025-08-20T06:36:57.971678"
+        },
+        "English": {
+          "total_interactions": 2,
+          "average_score": 0,
+          "time_spent": 0,
+          "topics_covered": [],
+          "difficulty_progress": {
+            "Beginner": 0,
+            "Intermediate": 0,
+            "Advanced": 0
+          },
+          "last_activity": "2025-08-20T06:37:41.771035"
+        },
+        "General": {
+          "total_interactions": 4,
+          "average_score": 0,
+          "time_spent": 0,
+          "topics_covered": [],
+          "difficulty_progress": {
+            "Beginner": 0,
+            "Intermediate": 0,
+            "Advanced": 0
+          },
+          "last_activity": "2025-08-20T08:22:50.345443"
+        }
+      },
+      "achievements": [
+        {
+          "type": "first_milestone",
+          "title": "Getting Started",
+          "description": "Completed 5 learning sessions",
+          "date": "2025-08-20T06:37:41.771211"
+        },
+        {
+          "type": "multi_subject",
+          "title": "Renaissance Learner",
+          "description": "Studied 3 different subjects",
+          "date": "2025-08-20T08:22:08.620228"
+        }
+      ],
+      "statistics": {
+        "total_sessions": 9,
+        "total_time_spent": 0,
+        "questions_answered": 0,
+        "correct_answers": 0,
+        "streak_days": 1,
+        "last_activity": "2025-08-20T08:22:50.345443"
+      }
+    },
+    "mohammad]": {
+      "profile": {
+        "name": "mohammad]",
+        "join_date": "2025-08-20T06:51:51.052051",
+        "level": "Beginner",
+        "preferred_subjects": []
+      },
+      "activity_log": [
+        {
+          "timestamp": "2025-08-20T06:51:51.052051",
+          "subject": "Computer Science",
+          "activity_type": "chat_interaction",
+          "score": null,
+          "duration": null,
+          "details": {}
+        },
+        {
+          "timestamp": "2025-08-20T06:52:01.870346",
+          "subject": "Computer Science",
+          "activity_type": "chat_interaction",
+          "score": null,
+          "duration": null,
+          "details": {}
+        },
+        {
+          "timestamp": "2025-08-20T06:52:17.538860",
+          "subject": "Computer Science",
+          "activity_type": "chat_interaction",
+          "score": null,
+          "duration": null,
+          "details": {}
+        },
+        {
+          "timestamp": "2025-08-20T06:52:46.834050",
+          "subject": "Computer Science",
+          "activity_type": "quiz_completed",
+          "score": 40,
+          "duration": null,
+          "details": {}
+        }
+      ],
+      "subject_progress": {
+        "Computer Science": {
+          "total_interactions": 4,
+          "average_score": 10.0,
+          "time_spent": 0,
+          "topics_covered": [],
+          "difficulty_progress": {
+            "Beginner": 0,
+            "Intermediate": 0,
+            "Advanced": 0
+          },
+          "last_activity": "2025-08-20T06:52:46.834050"
+        }
+      },
+      "achievements": [],
+      "statistics": {
+        "total_sessions": 4,
+        "total_time_spent": 0,
+        "questions_answered": 1,
+        "correct_answers": 0,
+        "streak_days": 1,
+        "last_activity": "2025-08-20T06:52:46.834050"
+      }
+    }
+  },
+  "global_stats": {
+    "total_interactions": 13,
+    "subjects_studied": [
+      "Computer Science",
+      "English",
+      "General"
+    ],
+    "average_session_length": 0
+  }
+}
